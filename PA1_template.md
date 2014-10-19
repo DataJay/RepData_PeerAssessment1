@@ -2,6 +2,8 @@
 ## Course 5: Reproducible Research
 ## Peer Assessment 1
 
+Due Date: October 19 2014
+
 ========================================================
 
 This assignment is examing personal movement data collected from activity devices.
